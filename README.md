@@ -15,3 +15,6 @@ Saves list on add/removal of entries, as well as on toggling of status.
 Loads list on launch.
 
 ![A screenshot of the To-Do list app.](/screenshots/screenshot2.PNG)
+
+Built with Maven.
+Uses Jackson lib for saving and loading data with JSON.
